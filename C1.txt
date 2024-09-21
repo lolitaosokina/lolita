@@ -1,7 +1,7 @@
 var a,b,c,d,g:integer;
 begin
 readln(a);readln(b);readln(c);
-d:=a-b+c;
+d:=a-b-c;
 g:=2*d;
 writeln(g);
 end;
