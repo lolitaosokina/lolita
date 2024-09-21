@@ -1,7 +1,7 @@
-var a,b,i,d,o:integer;
+var a,y,i,d,o:integer;
 begin
-readln(a);readln(b);readln(i);
-d:=a-b-i;
+readln(a);readln(y);readln(i);
+d:=a-y-i;
 o:=2-d;
 writeln(o);
 end;
